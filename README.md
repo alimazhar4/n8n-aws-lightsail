@@ -355,4 +355,7 @@ You should be prompted for the basic authentication username and password you se
 * **Monitoring:** Regularly check your Lightsail instance's metrics (CPU, RAM) in the dashboard to anticipate when you might need to scale up your plan.
 * **Security:** Keep your system packages updated (`sudo apt update && sudo apt upgrade -y`). Use strong, unique passwords and consider enabling MFA for your AWS account.
 
-Congratulations! You now have a self-hosted n8n instance running securely on your Lightsail VPS.
+Congratulations! You now have a self-hosted n8n instance running securely on your Lightsail VPS
+
+### Need Help? 
+Feel free to contact me at <a href="https://alimazhar.dev/" target="_blank">alimazhar.dev</a> if you are facing any or for any anything else 🙂
