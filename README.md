@@ -358,4 +358,4 @@ You should be prompted for the basic authentication username and password you se
 Congratulations! You now have a self-hosted n8n instance running securely on your Lightsail VPS
 
 ### Need Help? 
-Feel free to contact me at <a href="https://alimazhar.dev/" target="_blank">alimazhar.dev</a> if you are facing any or for any anything else 🙂
+Feel free to contact me at <a href="https://alimazhar.dev/" target="_blank">alimazhar.dev</a> if you are facing any issues 🙂
